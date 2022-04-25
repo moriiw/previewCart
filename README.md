@@ -1,2 +1,3 @@
 # previewCart
-- responsive 
+- Grid Practice
+- Responsive 
